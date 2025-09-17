@@ -49,7 +49,8 @@ By practicing on this demo, one gains familiarity with DevTools and improves the
 ---
 
 ## 🔹 Example Screenshot
-*(Add a screenshot of DevTools Console showing the error here)*
+![Browser Debug Demo Screenshot](screenshot.png)
+
 
 ---
 
